@@ -1,0 +1,54 @@
+    .dplabel {
+        padding: 30px;
+    }
+    
+    .imga {
+        width: 25%;
+        height: 30%;
+        padding: 20px;
+        margin-top: -6px;
+        margin-left: 70px;
+        border-radius: 50px;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        -ms-border-radius: 50px;
+        -o-border-radius: 50px;
+    }
+    
+    .imgplate {
+        width: 250px;
+        height: 200px;
+        background-color: rgb(58, 54, 54);
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+    
+    .svg-plate {
+        display: flex;
+        margin-top: -60px;
+        margin-left: -142px;
+    }
+    
+    .svg {
+        border-radius: 20px;
+        margin-top: 77px;
+        margin-left: 330px;
+        width: 30px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+    
+    .label {
+        color: white;
+        margin-top: 25px;
+        margin-left: 100px;
+    }
+    
+    span {
+        margin-left: -80px;
+    }
